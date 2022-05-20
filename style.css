@@ -1,0 +1,19 @@
+.jumbotron{
+    background-image: url('https://i.postimg.cc/Rh7rNnsc/red-pixel-pattern-background-1409-1285.jpg');
+    background-attachment: fixed;
+    color : yellow;
+    background-size: cover;
+    background-position: 0 -50px;
+    height: 450px;
+    padding-bottom: 5rem;
+    text-shadow: 100px;
+    font-family: sans-serif;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+section{
+    padding: 50px 0;
+}
